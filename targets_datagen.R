@@ -1,5 +1,4 @@
-##### This script generates fictional data of commercial contracts #############
-##### between a retailer and its industry suppliers. ###########################
+###### This script generates fictional data of commercial contracts between a retailer and its industry suppliers ######
 
 # Load required packages
 library(dplyr) # for data manipulation
